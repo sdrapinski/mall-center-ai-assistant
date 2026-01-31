@@ -26,7 +26,7 @@ class VoiceRecorder:
         if wav_path:
             self.wav_path = wav_path
         else:
-            self.wav_path = r"C:\Users\szymo\Desktop\studia\Zastosowanie-metod-sztucznej-inteligencji\mall-center-ai-assistant\voice\input.wav"
+            self.wav_path = r"voice\input.wav"
 
         # Zmienne stanu
         self.is_recording = False

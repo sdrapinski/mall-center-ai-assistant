@@ -56,7 +56,7 @@ class ShopAssistant:
             response = self.client.chat.completions.create(
                 model="gpt-4o", 
                 messages=[
-                    {"role": "system", "content": "Jesteś asystentem w centrum handlowym. Twoim zadaniem jest przypisanie luźnego zapytania klienta do konkretnych kategorii dostępnych w bazie."},
+                    {"role": "system", "content": "Jesteś asystentem w centrum handlowym. Twoim zadaniem jest przypisanie zapytania klienta do konkretnych kategorii dostępnych w bazie."},
                     {"role": "user", "content": question}
                 ],
                 tools=tools,
