@@ -22,11 +22,10 @@ class VoiceRecorder:
         self.sample_rate = sample_rate
         self.txt_path = txt_path
         
-        # Ustawienie domyślnej ścieżki, jeśli nie podano
+        # Ustawienie domyślnej ścieżki
         if wav_path:
             self.wav_path = wav_path
         else:
-            # Domyślna ścieżka z Twojego przykładu (zmieniłem na raw string dla bezpieczeństwa)
             self.wav_path = r"C:\Users\szymo\Desktop\studia\Zastosowanie-metod-sztucznej-inteligencji\mall-center-ai-assistant\voice\input.wav"
 
         # Zmienne stanu
@@ -46,7 +45,7 @@ class VoiceRecorder:
             print("Nagrywanie już trwa.")
             return
 
-        self.audio_buffer = []  # Wyczyść bufor
+        self.audio_buffer = []  
         self.is_recording = True
         
         # Inicjalizacja strumienia
@@ -69,7 +68,7 @@ class VoiceRecorder:
 
         self.is_recording = False
         self.stream.stop()
-        self.stream.close() # Dobra praktyka: zamykamy strumień
+        self.stream.close() 
         
         with self.output_area:
             display(widgets.HTML(f'<b>Nagrywanie zakończone.</b>'))
@@ -78,7 +77,6 @@ class VoiceRecorder:
         try:
             recorded_audio = np.array(self.audio_buffer, dtype=np.float32)
             
-            # Upewnij się, że folder istnieje
             os.makedirs(os.path.dirname(self.wav_path), exist_ok=True)
             
             write(self.wav_path, self.sample_rate, recorded_audio)

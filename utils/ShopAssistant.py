@@ -14,10 +14,9 @@ class ShopAssistant:
         self.client = openai_client
         self.all_categories = set()
         
-        # 1. Przetworzenie DataFrame, aby wyciągnąć unikalne kategorie do Enuma
-        # Zakładamy, że kolumna nazywa się 'kategorie' i jest rozdzielona przecinkami
-        for categories_str in self.df['kategorie']:
-            if pd.notna(categories_str): # Zabezpieczenie przed pustymi wierszami
+        # 1. Przetworzenie DataFrame, aby wyciągnąć unikalne kategorie
+        for categories_str in self.df['CATEGORIES']:
+            if pd.notna(categories_str): # Sprawdzenie na NaN
                 cats = [c.strip() for c in categories_str.split(',')]
                 self.all_categories.update(cats)
         
@@ -41,7 +40,7 @@ class ShopAssistant:
                                 "type": "array",
                                 "items": {
                                     "type": "string",
-                                    "enum": list(self.all_categories) # <-- Tutaj wstawiamy nasze kategorie z DF
+                                    "enum": list(self.all_categories) 
                                 },
                                 "description": "Lista kategorii pasujących do intencji użytkownika."
                             }
@@ -55,7 +54,7 @@ class ShopAssistant:
         # 3. Zapytanie do OpenAI
         try:
             response = self.client.chat.completions.create(
-                model="gpt-4o", # Model GPT-4 jest najlepszy do ścisłego trzymania się instrukcji
+                model="gpt-4o", 
                 messages=[
                     {"role": "system", "content": "Jesteś asystentem w centrum handlowym. Twoim zadaniem jest przypisanie luźnego zapytania klienta do konkretnych kategorii dostępnych w bazie."},
                     {"role": "user", "content": question}
@@ -72,12 +71,12 @@ class ShopAssistant:
             # 5. Filtrowanie DataFrame (szukamy sklepów, które mają te kategorie)
             matched_shops = []
             
-            # Iterujemy po DF (dla małych baz to jest wystarczająco szybkie)
+            # Iterujemy po DF i sprawdzamy kategorie
             for index, row in self.df.iterrows():
-                shop_cats = [c.strip() for c in row['kategorie'].split(',')]
+                shop_cats = [c.strip() for c in row['CATEGORIES'].split(',')]
                 # Sprawdzamy cześć wspólną zbiorów (czy sklep ma którąś z szukanych kategorii)
                 if set(shop_cats).intersection(set(found_categories)):
-                    matched_shops.append(row['sklep'])
+                    matched_shops.append({"name" :row['NAME'], "id": row['ID']}) 
 
             return {
                 "input_text": question,

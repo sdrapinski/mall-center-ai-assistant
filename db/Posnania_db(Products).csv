@@ -1,0 +1,1231 @@
+﻿ID;SHOP_ID;NAME;SECTION
+1;1;Sukienka letnia Basic;Odzież damska
+2;1;Bluza męska Urban Fit;Odzież męska
+3;1;Kurtka dziecięca SoftShell;Odzież dziecięca
+4;1;Sneakersy Street Run;Obuwie
+5;1;Plecak sportowy Active;Akcesoria sportowe
+6;2;Tort czekoladowy klasyczny;Torty, desery
+7;2;Zestaw pralinek premium;Cukierki, słodycze
+8;2;Babeczki waniliowe 6 szt.;Ciasta, wypieki
+9;2;Kawa mrożona firmowa;Napoje
+10;2;Zestaw prezentowy słodki;Prezenty, zestawy upominkowe
+11;3;Koszulka treningowa Performance;Sport / trening
+12;3;Buty biegowe RunFast;Obuwie
+13;3;Bluza z kapturem Lifestyle;Outdoor / lifestyle
+14;3;Spodenki piłkarskie Pro;Odzież męska
+15;3;Plecak treningowy Adidas;Akcesoria
+16;4;Woda perfumowana Floral Dream;Perfumy
+17;4;Paleta cieni Nude Look;Kosmetyki (makijaż)
+18;4;Krem nawilżający Hydra Skin;Pielęgnacja twarzy
+19;4;Zestaw prezentowy Beauty Box;Zestawy prezentowe / pakiety
+20;4;Balsam do ciała Vanilla Touch;Pielęgnacja ciała
+21;5;Złoty pierścionek z diamentem;Obrączki i pierścionki zaręczynowe
+22;5;Kolczyki srebrne Classic;Biżuteria damska
+23;5;Zegarek męski Elegant Steel;Zegarki
+24;5;Obrączki ślubne Satin Gold;Kolekcje ślubne
+25;5;Bransoleta męska Leather;Biżuteria męska
+26;6;Kurtka trekkingowa StormPro;Outdoor / trekking
+27;6;Polar damski Active Warm;Odzież damska
+28;6;Spodnie softshell męskie;Odzież męska
+29;6;Buty górskie Alpine Trek;Obuwie
+30;6;Czapka zimowa Outdoor;Akcesoria
+31;7;Bransoletka z grawerem Heart;Personalizowana biżuteria z grawerem
+32;7;Naszyjnik złocony Minimal;Naszyjniki
+33;7;Kolczyki klasyczne Pearl;Kolczyki
+34;7;Pierścionek regulowany Shine;Pierścionki
+35;7;Bransoletka męska Steel;Biżuteria męska
+36;8;Kolczyki złote Sparkle;Biżuteria złota
+37;8;Bransoletka srebrna Wave;Biżuteria srebrna
+38;8;Zestaw biżuterii Elegance;Zestawy biżuterii
+39;8;Nausznice Trendy Look;Nausznice
+40;8;Karta podarunkowa 200 zł;Karty podarunkowe / e-vouchery
+41;9;Bukiet róż klasycznych;Kwiaty (bukiety)
+42;9;Balon foliowy serce;Balony
+43;9;Box kwiatowy premium;Kompozycje kwiatowe
+44;9;Zestaw balonów z helem;Balony
+45;9;Upominek dekoracyjny Love;Upominki / prezenty / dekoracje
+46;10;Paracetamol 500mg;Leki bez recepty
+47;10;Magnez + B6 Forte;Suplementy diety
+48;10;Krem nawilżający Sensitive Skin;Sensitive Skin,Dermokosmetyki
+49;10;Szampon regenerujący Repair;Kosmetyki do włosów
+50;10;Zestaw do makijażu Basic Beauty;Akcesoria do makijażu
+51;11;Pierścionek zaręczynowy z diamentem 0.3ct;Pierścionki zaręczynowe
+52;11;Obrączki ślubne złote 585 (para);Obrączki ślubne
+53;11;Naszyjnik złoty z brylantem;Biżuteria z diamentami / brylantami
+54;11;Bransoletka srebrna na prezent;Biżuteria srebrna
+55;11;Kolczyki złote serca;Biżuteria na prezent
+56;12;Konto osobiste 360°;Otwarcie kont osobistych
+57;12;Kredyt gotówkowy online;Kredyty i pożyczki
+58;12;Karta kredytowa Visa Gold;Karty płatnicze i kredytowe
+59;12;Aplikacja mobilna Milenium;Bankowość elektroniczna i mobilna
+60;12;Konto firmowe Premium;Obsługa kont firmowych
+61;13;Konto Direct;Konta osobiste
+62;13;Konto oszczędnościowe Otwarte;Konta oszczędnościowe
+63;13;Kredyt hipoteczny ING;Kredyty i pożyczki
+64;13;Karta debetowa Mastercard;Karty płatnicze
+65;13;Bankowość internetowa Moje ING;Bankowość elektroniczna i mobilna
+66;14;Szampon regenerujący Keratin Pro;Pielęgnacja włosów
+67;14;Maska odbudowująca Hair Repair;Pielęgnacja włosów
+68;14;Olejek arganowy do włosów;Uroda i pielęgnacja skóry głowy
+69;14;Profesjonalna suszarka fryzjerska;Sprzęt fryzjerski
+70;14;Pianka zwiększająca objętość;Stylizacja włosów
+71;15;Bluza oversize z kapturem;Moda młodzieżowa
+72;15;T-shirt basic biały;Odzież codzienna
+73;15;Spodnie cargo streetwear;Odzież streetwear
+74;15;Sneakersy chunky;Obuwie
+75;15;Torebka crossbody;Akcesoria modowe
+76;16;Okulary korekcyjne damskie;Okulary korekcyjne
+77;16;Okulary przeciwsłoneczne UV400;Okulary przeciwsłoneczne
+78;16;Soczewki progresywne premium;Soczewki okularowe
+79;16;Oprawki metalowe męskie;Oprawki okularowe
+80;16;Badanie wzroku komputerowe;Usługi optyczne
+81;17;Jeansy slim fit męskie;Jeansy
+82;17;Jeansy high waist damskie;Jeansy
+83;17;Kurtka jeansowa klasyczna;Kurtki
+84;17;Koszulka z logo Big Star;Koszulki
+85;17;Spodnie chino casual;Spodnie
+86;18;Kolczyki pozłacane koła;Biżuteria
+87;18;Naszyjnik minimalistyczny;Biżuteria
+88;18;Bransoletka z zawieszką;Biżuteria
+89;18;Opaska do włosów satynowa;Akcesoria modowe
+90;18;Torebka wieczorowa;Akcesoria modowe
+91;19;Bluza Quiksilver z kapturem;Odzież
+92;19;T-shirt DC Shoes;Odzież
+93;19;Buty skate DC Pure;Obuwie
+94;19;Plecak surfowy Roxy;Akcesoria
+95;19;Czapka Billabong snapback;Akcesoria
+96;20;Garnitur wełniany slim fit;Garnitury
+97;20;Marynarka biznesowa klasyczna;Marynarki
+98;20;Koszula męska premium biała;Koszule
+99;20;Sweter merino z dekoltem V;Swetry
+100;30;Kurtka damska przejściowa;Odzież damska
+101;30;Sukienka codzienna;Odzież damska
+102;30;Koszula męska casual;Odzież męska
+103;30;Spodnie chinos;Odzież męska
+104;30;Bluza bawełniana;Odzież casual / codzienna
+105;20;Płaszcz wełniany zimowy;Płaszcze
+106;21;Bransoletka pozłacana z kamieniami;Bransoletki
+107;21;Naszyjnik z zawieszką;Naszyjniki
+108;21;Kolczyki kryształowe;Kolczyki
+109;21;Pierścionek regulowany;Pierścionki
+110;21;Broszka ozdobna;Broszki
+111;22;Garnitur męski Business Line;Garnitury
+112;22;Koszula slim fit;Koszule
+113;22;Kurtka przejściowa;Kurtki
+114;22;Polo bawełniane;Polo
+115;22;Pasek skórzany klasyczny;Akcesoria
+116;23;Garnitur męski Elegance;Garnitury
+117;23;Koszula formalna biała;Koszule
+118;23;Krawat jedwabny;Krawaty
+119;23;Bluza casual;Bluzy
+120;23;Pasek skórzany;Paski
+121;24;Sukienka damska codzienna;Odzież damska
+122;24;Jeansy męskie;Odzież męska
+123;24;Kurtka dziecięca;Odzież dziecięca
+124;24;Bluza młodzieżowa;Moda młodzieżowa
+125;24;Czapka zimowa;Akcesoria odzieżowe
+126;25;Bluzka damska casual;Odzież damska
+127;25;Spodnie męskie slim;Odzież męska
+128;25;Sukienka modowa;Odzież casual/modowa
+129;25;Pasek modowy;Akcesoria
+130;25;Torebka miejska;Akcesoria
+131;26;Rajstopy kryjące 60 DEN;Rajstopy
+132;26;Skarpety bawełniane;Skarpety
+133;26;Pończochy samonośne;Pończochy
+134;26;Kostium kąpielowy jednoczęściowy;Kostiumy kąpielowe
+135;26;Bielizna męska – bokserki;Bielizna męska
+136;27;Chleb pszenny;Pieczywo
+137;27;Mleko UHT 2%;Nabiał
+138;27;Proszek do prania;Chemia gospodarcza
+139;27;Telewizor LED 55”;AGD i RTV
+140;27;Koszulka basic;Odzież
+141;28;Pakiet TV CANAL+ Sport;Subskrypcje TV
+142;28;Abonament Internet domowy;Internet domowy
+143;28;Pakiet telefonii komórkowej;Telefonia komórkowa
+144;28;Usługa montażu dekodera;Usługi instalacyjne
+145;28;Dekoder 4K;Sprzęt TV
+146;29;Żelki owocowe mix;Słodycze
+147;29;Lizaki kolorowe;Cukierki
+148;29;Popcorn karmelowy;Przekąski
+149;29;Napój gazowany wiśniowy;Napoje
+150;29;Czekolada mleczna;Słodycze
+151;31;Cabernet Sauvignon;Wina czerwone
+152;31;Riesling półsłodki;Wina białe
+153;31;Prosecco DOC;Wina musujące
+154;31;Whisky Jack Daniel’s;Alkohole mocne
+155;31;Korkociąg sommeliera;Akcesoria do wina
+156;32;Szpilki lakierowane;Obuwie damskie
+157;32;Buty biegowe Nike;Obuwie męskie
+158;32;Kozaki dziecięce zimowe;Obuwie dziecięce
+159;32;Torebka shopper;Torebki
+160;32;Pasek skórzany;Akcesoria
+161;33;Odbitki 10x15;Odbitki fotograficzne
+162;33;Zdjęcie paszportowe;Zdjęcia do dokumentów
+163;33;Fotoksiążka A4;Fotoprodukty
+164;33;Aparat Canon PowerShot;Aparaty fotograficzne
+165;33;Statyw aluminiowy;Akcesoria fotograficzne
+166;34;Chuck Taylor All Star;Obuwie
+167;34;Run Star Hike;Obuwie
+168;34;Bluza z kapturem;Odzież
+169;34;Czapka z daszkiem;Akcesoria
+170;34;Plecak miejski;Akcesoria
+171;35;Zeszyt A5 w linie;Artykuły szkolne
+172;35;Długopis żelowy;Artykuły papiernicze
+173;35;Organizer biurkowy;Akcesoria biurowe
+174;35;Notes ozdobny;Notesy
+175;35;Brelok prezentowy;Gadżety
+176;36;Biustonosz push-up;Biustonosze
+177;36;Majtki figi;Bielizna damska
+178;36;Rajstopy 40 DEN;Rajstopy
+179;36;Biustonosz sportowy;Bielizna damska
+180;36;Ramiączka silikonowe;Akcesoria bieliźniane
+181;37;Klapki Classic;Klapki
+182;37;Chodaki dziecięce;Chodaki
+183;37;Sandały letnie;Sandały
+184;37;Buty LiteRide;Obuwie casual
+185;37;Przypinki Jibbitz;Akcesoria
+186;38;Bluza oversize;Odzież męska
+187;38;T-shirt z nadrukiem;Odzież damska
+188;38;Jeansy slim fit;Denim
+189;38;Sneakersy wysokie;Obuwie
+190;38;Czapka beanie;Akcesoria
+191;39;Konto dla młodych;Konta osobiste
+192;39;Karta debetowa Visa;Karty płatnicze
+193;39;Lokata 12-miesięczna;Lokaty
+194;39;Kredyt gotówkowy;Kredyty
+195;39;Polisa na życie;Ubezpieczenia
+196;40;Wakacje Grecja all inclusive;Wyjazdy wakacyjne
+197;40;Wycieczka objazdowa Włochy;Wycieczki
+198;40;Hotel 4-gwiazdkowy;Rezerwacje hoteli
+199;40;Bilet lotniczy Warszawa–Rzym;Bilety lotnicze
+200;40;Polisa turystyczna Europa;Ubezpieczenia turystyczne
+201;51;Sukienka wieczorowa maxi;Odzież damska
+202;51;Sukienka koktajlowa elegancka;Odzież damska
+203;51;Bluzka damska z satyny;Odzież damska
+204;51;Spódnica midi plisowana;Odzież damska
+205;51;Żakiet damski klasyczny;Odzież damska
+206;52;E-papieros starter kit;Pody i urządzenia vapingowe
+207;52;Liquid owocowy 10ml;Liquidy i wkłady
+208;52;Grzałka do e-papierosa;Akcesoria do wapowania
+209;52;Pod system kompaktowy;Pody i urządzenia vapingowe
+210;52;Liquid mentolowy 10ml;Liquidy i wkłady
+211;53;Implant zębowy tytanowy;Implanty
+212;53;Aparat ortodontyczny stały;Ortodoncja
+213;53;Higienizacja jamy ustnej;Higiena jamy ustnej
+214;53;Most protetyczny porcelanowy;Protetyka
+215;53;Konsultacja stomatologiczna;Usługi stomatologiczne
+216;54;Buty sportowe damskie;Obuwie damskie
+217;54;Półbuty męskie skórzane;Obuwie męskie
+218;54;Buty dziecięce na rzepy;Obuwie dziecięce
+219;54;Torebka damska shopper;Akcesoria
+220;54;Plecak miejski;Akcesoria
+221;55;Biustonosz koronkowy;Bielizna damska
+222;55;Majtki damskie klasyczne;Bielizna damska
+223;55;Kostium kąpielowy jednoczęściowy;Kostiumy kąpielowe
+224;55;Rajstopy kryjące 60 DEN;Rajstopy i legginsy
+225;55;Tunika plażowa;Odzież plażowa
+226;56;Suszarka fryzjerska profesjonalna;Sprzęt elektryczny
+227;56;Prostownica ceramiczna;Narzędzia fryzjerskie
+228;56;Szampon regenerujący;Profesjonalne kosmetyki fryzjerskie
+229;56;Szczotka okrągła do modelowania;Akcesoria fryzjerskie
+230;56;Lokówka do włosów;Sprzęt elektryczny
+231;57;Okulary korekcyjne damskie;Okulary korekcyjne
+232;57;Okulary przeciwsłoneczne UV400;Okulary przeciwsłoneczne
+233;57;Soczewki kontaktowe miesięczne;Soczewki kontaktowe
+234;57;Badanie wzroku komputerowe;Usługi badania wzroku
+235;57;Dobór szkieł korekcyjnych;Usługi badania wzroku
+236;58;Okulary korekcyjne męskie;Okulary korekcyjne
+237;58;Okulary przeciwsłoneczne polaryzacyjne;Okulary przeciwsłoneczne
+238;58;Soczewki kontaktowe dzienne;Soczewki kontaktowe
+239;58;Badanie wzroku optometryczne;Usługi optyczne
+240;58;Serwis okularów;Usługi optyczne
+241;59;Strzyżenie męskie klasyczne;Usługi barberingu
+242;59;Golenie brzytwą;Usługi barberingu
+243;59;Modelowanie brody;Usługi barberingu
+244;59;Strzyżenie fade;Usługi barberingu
+245;59;Mycie i stylizacja włosów;Usługi fryzjerskie
+246;60;Herbata czarna liściasta;Herbata
+247;60;Herbata zielona sencha;Herbata
+248;60;Kawa ziarnista arabica;Kawa
+249;60;Zaparzacz do herbaty stalowy;Akcesoria do napojów
+250;60;Ciastka maślane do herbaty;Ciastka
+251;41;Jeansy męskie slim fit;Jeansy
+252;41;Kurtka jeansowa damska;Kurtki
+253;41;T-shirt z logo;Koszulki
+254;41;Pasek skórzany;Akcesoria modowe
+255;41;Sneakersy miejskie;Obuwie
+256;42;Buty sportowe męskie;Obuwie
+257;42;Trampki damskie;Obuwie
+258;42;Buty casual skórzane;Obuwie
+259;42;Sneakersy lifestyle;Obuwie
+260;42;Buty zimowe ocieplane;Obuwie
+261;43;Sandały damskie;Obuwie damskie
+262;43;Buty eleganckie męskie;Obuwie męskie
+263;43;Buty dziecięce na rzepy;Obuwie dziecięce
+264;43;Sneakersy sportowe;Buty sportowe
+265;43;Klapki letnie;Obuwie damskie
+266;44;Herbata czarna liściasta;Herbata i napoje
+267;44;Herbata zielona premium;Herbata i napoje
+268;44;Zaparzacz do herbaty;Akcesoria do herbaty
+269;44;Czajniczek ceramiczny;Akcesoria do herbaty
+270;44;Zestaw prezentowy herbat;Zestawy prezentowe z herbatą
+271;45;Odkurzacz bezprzewodowy;Odkurzacze
+272;45;Robot sprzątający;Roboty sprzątające
+273;45;Suszarka do włosów;Suszarki do włosów
+274;45;Oczyszczacz powietrza;Oczyszczacze powietrza
+275;45;Wentylator kolumnowy;Wentylatory
+276;46;Etui silikonowe do smartfona;Akcesoria do telefonów
+277;46;Szkło hartowane;Akcesoria do telefonów
+278;46;Ładowarka szybka;Akcesoria GSM
+279;46;Naprawa ekranu smartfona;Serwis i naprawa telefonów
+280;46;Słuchawki przewodowe;Elektronika mobilna
+281;47;Perfumy damskie;Perfumy
+282;47;Podkład do twarzy;Makijaż
+283;47;Krem nawilżający;Pielęgnacja skóry
+284;47;Szampon regenerujący;Pielęgnacja włosów
+285;47;Pędzle do makijażu;Akcesoria beauty
+286;48;Odkurzacz pionowy;Odkurzacze
+287;48;Robot sprzątający z mopem;Roboty sprzątające
+288;48;Zestaw filtrów;Akcesoria do sprzętu
+289;48;Szczotka wymienna;Akcesoria do sprzętu
+290;48;Urządzenie do czyszczenia podłóg;Urządzenia domowe
+291;49;Książka bestsellerowa;Książki
+292;49;Gra planszowa rodzinna;Gry planszowe
+293;49;Zeszyt kreatywny;Artykuły papiernicze
+294;49;Figurka kolekcjonerska;Prezenty i gadżety
+295;49;Czasopismo miesięczne;Czasopisma
+296;50;Buty skórzane eleganckie;Obuwie męskie
+297;50;Sneakersy damskie;Obuwie damskie
+298;50;Buty dziecięce sportowe;Obuwie dziecięce
+299;50;Sandały trekkingowe;Obuwie męskie
+300;50;Buty casual skórzane;Obuwie damskie
+301;61;Kurtka oversize unisex;Odzież casual
+302;61;Bluza z kapturem basic;Odzież casual
+303;61;T-shirt minimalistyczny;Odzież damska
+304;61;Spodnie jogger;Odzież męska
+305;61;Koszula casual loose fit;Odzież modowa
+306;62;Rajstopy kryjące 40 DEN;Rajstopy i pończochy
+307;62;Pończochy samonośne;Pończochy
+308;62;Legginsy damskie classic;Odzież
+309;62;Biustonosz bezszwowy;Bielizna damska
+310;62;Skarpetki damskie bawełniane;Akcesoria
+311;63;Zestaw długopisów kolorowych;Artykuły papiernicze
+312;63;Kubek z nadrukiem;Gadżety
+313;63;Ozdobna świeczka;Dekoracje
+314;63;Gra biurkowa mini;Gadżety
+315;63;Zestaw prezentowy DIY;Prezenty
+316;64;Buty sportowe Nike Air;Obuwie sportowe
+317;64;Sneakersy Adidas Originals;Obuwie sportowe
+318;64;Bluza sportowa z kapturem;Odzież sportowa
+319;64;Czapka z daszkiem;Akcesoria sportowe
+320;64;Torba sportowa treningowa;Akcesoria sportowe
+321;65;Garnitur męski slim fit;Garnitury
+322;65;Marynarka wizytowa;Marynarki
+323;65;Koszula męska elegancka;Koszule
+324;65;Spodnie materiałowe męskie;Spodnie
+325;65;Krawat jedwabny;Akcesoria modowe
+326;66;Sukienka koktajlowa premium;Moda damska
+327;66;Marynarka elegancka;Odzież premium
+328;66;Torebka skórzana;Torebki i akcesoria
+329;66;Zegarek damski klasyczny;Zegarki
+330;66;Buty na obcasie;Obuwie
+331;67;Jeansy skinny damskie;Jeansy i denim
+332;67;T-shirt z logo Guess;Odzież damska
+333;67;Koszula męska casual;Odzież męska
+334;67;Pasek skórzany;Akcesoria modowe
+335;67;Torebka shopper;Akcesoria modowe
+336;68;Kurtka trekkingowa;Odzież outdoor
+337;68;Buty górskie trekkingowe;Obuwie outdoor
+338;68;Plecak turystyczny 30L;Akcesoria outdoor
+339;68;Polar termiczny;Odzież outdoor
+340;68;Czapka outdoorowa;Akcesoria outdoor
+341;69;Jeansy straight fit;Jeansy i denim
+342;69;Kurtka jeansowa damska;Odzież denimowa
+343;69;Spódnica jeansowa;Moda damska
+344;69;Koszula jeansowa;Odzież denimowa
+345;69;Szorty jeansowe;Jeansy i denim
+346;70;T-shirt basic bawełniany;Odzież damska
+347;70;Bluza z nadrukiem;Odzież męska
+348;70;Spodnie dziecięce;Odzież dziecięca
+349;70;Biustonosz basic;Bielizna
+350;70;Sneakersy casual;Obuwie
+351;71;Skórzany pasek klasyczny;Paski skórzane
+352;71;Portfel skórzany męski;Portfele
+353;71;Torba skórzana na ramię;Torby skórzane
+354;71;Etui skórzane na dokumenty;Akcesoria skórzane
+355;71;Brelok skórzany;Drobne akcesoria skórzane
+356;72;Kurtka damska outlet;Odzież damska
+357;72;Spodnie męskie casual;Odzież męska
+358;72;Sneakersy markowe;Obuwie
+359;72;Torebka modowa;Akcesoria modowe
+360;72;Bluza streetwear;Odzież damska
+361;73;Krem do twarzy nawilżający;Kosmetyki do pielęgnacji
+362;73;Perfumy damskie;Perfumy i zapachy
+363;73;Tusz do rzęs;Makijaż
+364;73;Żel pod prysznic;Produkty do higieny
+365;73;Pędzel do makijażu;Akcesoria beauty
+366;74;Komoda do salonu;Meble
+367;74;Pościel bawełniana;Tekstylia domowe
+368;74;Wazon dekoracyjny;Dekoracje i dodatki do domu
+369;74;Zestaw talerzy ceramicznych;Naczynia i szkło
+370;74;Dozownik do mydła;Akcesoria łazienkowe
+371;75;Poduszka dekoracyjna;Dekoracje domowe
+372;75;Zasłony do salonu;Tekstylia do domu
+373;75;Zestaw naczyń kuchennych;Wyposażenie kuchni
+374;75;Lampa stołowa;Oświetlenie
+375;75;Ręczniki bawełniane;Akcesoria łazienkowe
+376;76;T-shirt z nadrukiem;Odzież casual / streetwear
+377;76;Kurtka jeansowa;Odzież męska
+378;76;Sukienka casual;Odzież damska
+379;76;Czapka z daszkiem;Akcesoria modowe
+380;76;Bluza oversize;Odzież casual / streetwear
+381;77;Paleta cieni do powiek;Kosmetyki do makijażu
+382;77;Pomadka matowa;Pomadki
+383;77;Lakier do paznokci;Lakiery do paznokci
+384;77;Puder sypki;Pudry
+385;77;Odżywka do paznokci;Produkty pielęgnacyjne
+386;78;Konto osobiste;Usługi bankowe
+387;78;Karta debetowa;Karty płatnicze
+388;78;Kredyt gotówkowy;Kredyty i pożyczki
+389;78;Aplikacja mobilna ING;Bankowość elektroniczna
+390;78;Usługa przelewów online;Usługi finansowe
+391;79;E-papieros starter kit;E-papierosy
+392;79;Liquid owocowy 10 ml;Liquidy do e-papierosów
+393;79;Podgrzewacz tytoniu;Podgrzewacze tytoniu
+394;79;Saszetki nikotynowe;Saszetki nikotynowe
+395;79;Etui do e-papierosa;Akcesoria vapingowe
+396;80;Podgrzewacz IQOS;Iluma / podgrzewacze
+397;80;Wkłady tytoniowe TEREA;Wkłady tytoniowe
+398;80;Etui ochronne IQOS;Akcesoria do podgrzewaczy
+399;80;Ładowarka do IQOS;Akcesoria do podgrzewaczy
+400;80;Serwis urządzenia IQOS;Usługi serwisowe
+401;101;Garnitur męski slim fit;Garnitury
+402;101;Marynarka damska klasyczna;Marynarki
+403;101;Koszula męska formalna;Koszule
+404;101;Sweter wełniany unisex;Swetry
+405;101;Pasek skórzany męski;Akcesoria
+406;102;Jeansy damskie regular fit;Odzież damska
+407;102;Jeansy męskie straight fit;Odzież męska
+408;102;T-shirt z nadrukiem;Odzież damska
+409;102;Kurtka jeansowa casual;Odzież męska
+410;102;Sukienka damska mini;Odzież damska
+411;103;Jeansy Wrangler damskie;Jeansy i odzież denimowa
+412;103;Jeansy Wrangler męskie;Jeansy i odzież denimowa
+413;103;Koszula jeansowa damska;Odzież damska
+414;103;Kurtka denimowa męska;Odzież męska
+415;103;Szorty jeansowe;Jeansy i odzież denimowa
+416;104;Wiertarka elektryczna;Narzędzia
+417;104;Zestaw młotków i kluczy;Narzędzia
+418;104;Płyty OSB 18mm;Materiały remontowe
+419;104;Lampka stołowa LED;Wyposażenie domu i ogrodu
+420;104;Doniczka ceramiczna;Wyposażenie domu i ogrodu
+421;105;Zestaw LEGO Star Wars;Zabawki / klocki LEGO
+422;105;LEGO City Statek kosmiczny;Zabawki / klocki LEGO
+423;105;LEGO Friends Domek;Zabawki / klocki LEGO
+424;105;LEGO Technic Samochód;Zabawki / klocki LEGO
+425;105;LEGO Classic Klocki podstawowe;Zabawki / klocki LEGO
+426;106;Jeansy Levis damskie;Odzież damska
+427;106;Jeansy Levis męskie;Odzież męska
+428;106;T-shirt casual Levis;Odzież damska
+429;106;Kurtka denim Levis;Odzież męska
+430;106;Spodnie chino Levis;Odzież damska
+431;107;Sukienka koktajlowa Likus;Odzież damska
+432;107;Bluzka jedwabna damska;Odzież damska
+433;107;Spodnie materiałowe damskie;Odzież damska
+434;107;Torebka shopper premium;Akcesoria
+435;107;Płaszcz damski klasyczny;Odzież damska
+436;108;Pierścionek złoty z cyrkoniami;Biżuteria
+437;108;Naszyjnik celebrytka;Biżuteria
+438;108;Bransoletka skórzana;Biżuteria
+439;108;Kolczyki srebrne;Biżuteria
+440;108;Charms do bransoletki;Akcesoria
+441;109;Tabliczka czekolady mlecznej;Czekolada i słodycze
+442;109;Praliny luksusowe;Praliny
+443;109;Zestaw czekoladowy prezentowy;Zestawy czekoladowe
+444;109;Czekolada gorzka 70%;Czekolada i słodycze
+445;109;Praliny w pudełku upominkowym;Zestawy czekoladowe
+446;110;E-papieros starter kit;Liquidy i premixy
+447;110;Liquid owocowy 10ml;Liquidy i premixy
+448;110;Grzałka do e-papierosa;Akcesoria do e-papierosów
+449;110;Bateria do e-papierosa;Akcesoria do e-papierosów
+450;110;Pod system kompaktowy;Wkłady i bazy nikotynowe
+451;91;"Laptop biurowy 15""";Komputery
+452;91;Klawiatura mechaniczna;Akcesoria komputerowe
+453;91;Dysk SSD 1TB;Podzespoły komputerowe
+454;91;Słuchawki bezprzewodowe;RTV i elektronika użytkowa
+455;91;Smart gniazdko Wi-Fi;Gadżety tech
+456;92;Wymiana EUR na PLN;Wymiana walut
+457;92;Wymiana USD na PLN;Wymiana walut
+458;92;Skup walut obcych;Usługi kantorowe
+459;92;Sprzedaż walut obcych;Usługi kantorowe
+460;92;Konsultacja kursowa;Usługi kantorowe
+461;93;Buty skórzane damskie;Obuwie damskie
+462;93;Buty skórzane męskie;Obuwie męskie
+463;93;Torebka skórzana;Torebki
+464;93;Pasek skórzany;Akcesoria modowe
+465;93;Portfel damski;Akcesoria modowe
+466;94;Sukienka dzienna;Odzież damska
+467;94;Koszula męska casual;Odzież męska
+468;94;Spodnie materiałowe;Odzież męska
+469;94;Bluza bawełniana;Odzież casual
+470;94;Kurtka przejściowa;Odzież damska
+471;95;Makaron włoski premium;Artykuły spożywcze
+472;95;Sos curry indyjski;Produkty kuchni świata
+473;95;Oliwa z oliwek extra virgin;Delikatesy
+474;95;Przyprawy orientalne;Artykuły spożywcze
+475;95;Sos sojowy japoński;Produkty kuchni świata
+476;96;Ser pleśniowy francuski;Sery
+477;96;Ser długo dojrzewający;Sery
+478;96;Wino czerwone wytrawne;Wina
+479;96;Konfitura figowa;Delikatesy
+480;96;Zestaw serów prezentowy;Delikatesy
+481;97;Garnitur męski klasyczny;Garnitury
+482;97;Marynarka casual;Marynarki
+483;97;Koszula slim fit;Koszule
+484;97;Spodnie chino;Casual
+485;97;Sweter wełniany;Odzież męska
+486;98;Krem do rąk shea;Pielęgnacja ciała
+487;98;Perfumy lawendowe;Perfumy
+488;98;Balsam do ciała;Pielęgnacja ciała
+489;98;Żel pod prysznic;Pielęgnacja
+490;98;Zestaw kosmetyków prezentowy;Produkty beauty
+491;99;Garnitur slim fit;Garnitury
+492;99;Marynarka wełniana;Marynarki
+493;99;Koszula wizytowa;Koszule
+494;99;Spodnie materiałowe;Spodnie
+495;99;Sweter klasyczny;Swetry
+496;100;Polówka klasyczna;Odzież męska
+497;100;Sukienka sportowa;Odzież damska
+498;100;Sneakersy skórzane;Obuwie
+499;100;Czapka z logo;Akcesoria
+500;100;Pasek parciany;Akcesoria
+501;111;Manicure hybrydowy klasyczny;Manicure
+502;111;Przedłużanie paznokci żelowych;Stylizacja paznokci
+503;111;Stylizacja brwi i rzęs;Stylizacja brwi i rzęs
+504;111;Pakiet manicure + pedicure;Usługi kosmetyczne
+505;111;Zdjęcie hybrydy + pielęgnacja;Usługi kosmetyczne
+506;112;Kupon Lotto tygodniowy;Zakłady liczbowe
+507;112;Lotto Ekstra Pensja;Usługi gier liczbowych
+508;112;Kumulacja Super Szansa;Zakłady liczbowe
+509;112;Kupon Mini Lotto;Usługi gier liczbowych
+510;112;Lotto Online mobilnie;Usługi gier liczbowych
+511;113;Kolczyki modowe złote;Biżuteria modowa
+512;113;Naszyjnik celebrytka;Biżuteria modowa
+513;113;Bransoletka charms;Biżuteria modowa
+514;113;Pierścionek regulowany;Biżuteria modowa
+515;113;Kolczyki wiszące srebrne;Biżuteria modowa
+516;114;Sukienka letnia damska;Odzież damska
+517;114;Bluzka z krótkim rękawem;Odzież damska
+518;114;Spódnica midi plisowana;Odzież damska
+519;114;Koszula casual damska;Odzież damska
+520;114;Żakiet damski elegancki;Odzież damska
+521;115;Biustonosz koronkowy;Bielizna damska
+522;115;Majtki klasyczne;Bielizna damska
+523;115;Kostium kąpielowy jednoczęściowy;Kostiumy kąpielowe
+524;115;Piżama bawełniana damska;Piżamy / odzież nocna
+525;115;Skarpetki damskie kolorowe;Skarpetki
+526;116;Manicure hybrydowy;Usługi manicure
+527;116;Manicure żelowy;Usługi manicure
+528;116;Usunięcie stylizacji paznokci;Usunięcie stylizacji
+529;116;Naprawa paznokci;Usługi kosmetyczne
+530;116;Stylizacja paznokci artystyczna;Stylizacja paznokci
+531;117;Skarpety kolorowe unikalne;Skarpety
+532;117;Skarpety z motywem zwierząt;Skarpety
+533;117;Skarpety w paski;Skarpety
+534;117;Skarpety z napisem kreatywnym;Skarpety
+535;117;Skarpety wełniane ręcznie robione;Skarpety
+536;118;Jabłka świeże;owoce
+537;118;Marchew bio;Warzywa
+538;118;Banany dojrzałe;owoce
+539;118;Papryka czerwona;Warzywa
+540;118;Pomarańcze słodkie;owoce
+541;119;T-shirt casual damski;Odzież damska
+542;119;Bluzka damska klasyczna;Odzież damska
+543;119;Koszula męska casual;Odzież męska
+544;119;Spodnie męskie chinos;Odzież męska
+545;119;Kurtka unisex casual;Odzież damska i męska
+546;120;Konto osobiste standard;mBank
+547;120;Kredyt gotówkowy online;mBank
+548;120;Karta kredytowa mBank;mBank
+549;120;Aplikacja mobilna mBank;Bankowość elektroniczna i mobilna
+550;120;Konto firmowe Premium;mBank
+551;121;Koszula lniana męska;Odzież męska
+552;121;Sukienka midi;Odzież damska
+553;121;Sweter dziecięcy;Odzież dziecięca
+554;121;Torebka skórzana;Akcesoria modowe
+555;121;Pasek klasyczny;Akcesoria modowe
+556;122;Kurtka dziecięca przejściowa;Odzież dziecięca
+557;122;Body niemowlęce bawełniane;Odzież niemowlęca
+558;122;Spodnie dziecięce;Odzież dziecięca
+559;122;Czapka dziecięca;Akcesoria dla dzieci
+560;122;Zestaw ubranek niemowlęcych;Odzież niemowlęca
+561;123;Kolczyki pozłacane;Kolczyki
+562;123;Łańcuszek srebrny;Łańcuszki
+563;123;Naszyjnik z zawieszką;Naszyjniki
+564;123;Pierścionek regulowany;Pierścionki
+565;123;Bransoletka ozdobna;Bransoletki
+566;124;Kurtka taktyczna;Odzież taktyczna
+567;124;Buty trekkingowe;Obuwie taktyczne
+568;124;Plecak militarny;Sprzęt outdoor
+569;124;Nóż survivalowy;Survival
+570;124;Wiatrówka rekreacyjna;Broń rekreacyjna
+571;125;Karma sucha dla psa;Karmy dla zwierząt
+572;125;Zabawka interaktywna dla kota;Zabawki dla zwierząt
+573;125;Przysmak treningowy;Przysmaki dla pupili
+574;125;Legowisko dla psa;Wyposażenie dla zwierząt
+575;125;Smycz regulowana;Akcesoria dla zwierząt
+576;126;Naprawa obcasa;Naprawa obuwia
+577;126;Dorabianie klucza;Dorabianie kluczy
+578;126;Wymiana baterii w zegarku;Usługi zegarmistrzowskie
+579;126;Grawerowanie breloka;Grawerowanie
+580;126;Past do butów;Akcesoria do obuwia
+581;127;Okulary korekcyjne;Okulary korekcyjne
+582;127;Okulary przeciwsłoneczne;Okulary przeciwsłoneczne
+583;127;Soczewki kontaktowe;Soczewki
+584;127;Badanie wzroku;Usługi optyczne
+585;127;Płyn do soczewek;Akcesoria optyczne
+586;128;Bluzka damska elegancka;Odzież damska
+587;128;Sukienka wizytowa;Odzież damska
+588;128;Spódnica midi;Odzież damska
+589;128;Sweter damski;Odzież damska
+590;128;Kardigan lekki;Odzież damska
+591;129;Sukienka casual;Odzież damska
+592;129;Bluzka z falbanami;Odzież damska
+593;129;Spodnie materiałowe;Odzież damska
+594;129;Marynarka damska;Odzież damska
+595;129;T-shirt basic;Odzież damska
+596;130;Mycie zewnętrzne samochodu;Mycie auta
+597;130;Sprzątanie wnętrza auta;Sprzątanie wnętrza
+598;130;Pranie tapicerki;Pranie tapicerki
+599;130;Czyszczenie szyb;Czyszczenie szyb
+600;130;Odkurzanie wnętrza;Odkurzanie
+601;81;Biustonosz koronkowy Elegance;Biustonosze
+602;81;Majtki klasyczne Cotton Soft;Majtki
+603;81;Piżama satynowa Night Chic;Piżamy / odzież nocna
+604;81;Body modelujące Silky;Body
+605;81;Rajstopy 40 DEN Classic;Rajstopy
+606;82;Kurtka sportowa WindPro;Odzież sportowa
+607;82;Buty treningowe PowerRun;Obuwie sportowe
+608;82;Piłka nożna Training Pro;Sprzęt sportowy
+609;82;Bidon sportowy 750 ml;Akcesoria sportowe
+610;82;Białko serwatkowe Whey Active;Suplementy i odżywki
+611;83;iPhone 15 128 GB;Urządzenia Apple
+612;83;Etui silikonowe do iPhone;Akcesoria do Apple
+613;83;Ładowarka MagSafe;Akcesoria do Apple
+614;83;Kabel USB-C Apple;Akcesoria do Apple
+615;83;Serwis baterii iPhone;Usługi serwisowe Apple
+616;84;Sneakersy Air Street;Obuwie sportowe
+617;84;Bluza streetwear Logo;Odzież sportowa i streetwear
+618;84;Spodnie dresowe Urban Fit;Odzież sportowa i streetwear
+619;84;Czapka z daszkiem JD;Akcesoria sportowe
+620;84;Plecak sportowy Street Pack;Akcesoria sportowe
+621;85;Wycieczka Grecja 7 dni;Wycieczki zagraniczne
+622;85;Wakacje all inclusive Turcja;Rezerwacje wakacji
+623;85;City break Rzym;Wyjazdy miejskie
+624;85;Wczasy nad morzem Polska;Wycieczki krajowe
+625;85;Ubezpieczenie turystyczne;Usługi turystyczne
+626;86;Strzyżenie damskie;Usługi fryzjerskie
+627;86;Koloryzacja pełna;Usługi fryzjerskie
+628;86;Modelowanie włosów;Stylizacja włosów
+629;86;Regeneracja włosów Olaplex;Zabiegi pielęgnacyjne
+630;86;Strzyżenie męskie;Usługi fryzjerskie
+631;87;Etui silikonowe do smartfona;Etui
+632;87;Szkło hartowane 9H;Szkła ochronne
+633;87;Uchwyt samochodowy magnetyczny;Uchwyty
+634;87;Ładowarka indukcyjna;Akcesoria do telefonów
+635;87;Powerbank 10000 mAh;Akcesoria do telefonów
+636;88;Zegarek damski Classic Gold;Zegarki
+637;88;Bransoletka złota Fine;Biżuteria
+638;88;Kolczyki srebrne Spark;Biżuteria
+639;88;Łańcuszek złoty 585;Biżuteria
+640;88;Pudełko jubilerskie;Akcesoria jubilerskie
+641;89;Pierścionek złoty z diamentem;Biżuteria złota
+642;89;Naszyjnik srebrny z bursztynem;Biżuteria srebrna
+643;89;Zegarek męski Automatic;Zegarki
+644;89;Kolczyki z bursztynem;Kamienie szlachetne i bursztyny
+645;89;Bransoleta złota klasyczna;Biżuteria złota
+646;90;Gazeta codzienna;Prasa i czasopisma
+647;90;Magazyn lifestyle;Prasa i czasopisma
+648;90;Bilet komunikacji miejskiej;Bilety komunikacyjne
+649;90;Los Lotto;Losy loteryjne
+650;90;Zapalniczka jednorazowa;Artykuły drobne
+651;131;Sukienka casual damska;Odzież damska
+652;131;Bluzka z nadrukiem;Odzież damska
+653;131;Spodnie materiałowe;Odzież damska
+654;131;Kurtka lekka na wiosnę;Odzież damska
+655;131;Żakiet klasyczny;Odzież damska
+656;132;Lakier hybrydowy czerwony;Lakiery hybrydowe
+657;132;Lampa UV/LED 36W;Lampy UV/LED
+658;132;Zestaw startowy do manicure;Zestawy do stylizacji paznokci
+659;132;Pilnik i polerka;Akcesoria do manicure i pedicure
+660;132;Oliwka do skórek;Akcesoria do manicure i pedicure
+661;133;Buty sportowe New Balance męskie;Obuwie sportowe
+662;133;Buty sportowe New Balance damskie;Obuwie sportowe
+663;133;Bluza treningowa;Odzież sportowa/casual
+664;133;Spodnie dresowe;Odzież sportowa/casual
+665;133;Torba sportowa;Akcesoria sportowe
+666;134;T-shirt damski;Odzież damska
+667;134;Bluza młodzieżowa;Odzież młodzieżowa
+668;134;Jeansy męskie;Odzież męska
+669;134;Majtki damskie;Bielizna
+670;134;Pasek skórzany;Akcesoria modowe
+671;135;Buty sportowe Nike Air;Obuwie sportowe
+672;135;Bluza treningowa Nike;Odzież sportowa
+673;135;Skarpetki sportowe Nike;Akcesoria sportowe
+674;135;Spodnie dresowe;Odzież sportowa
+675;135;Czapka z daszkiem Nike;Akcesoria sportowe
+676;136;E-papieros jednorazowy;Elektroniczne papierosy
+677;136;Woreczki nikotynowe;Artykuły nikotynowe
+678;136;Bateria do e-papierosa;Elektroniczne papierosy
+679;136;Ustnik do e-papierosa;Akcesoria do e-papierosów
+680;136;Pod system kompaktowy;Elektroniczne papierosy
+681;137;Body niemowlęce bawełniane;Odzież dziecięca i niemowlęca
+682;137;Śpioszki niemowlęce;Odzież dziecięca i niemowlęca
+683;137;Bluzka dziecięca;Odzież dziecięca i niemowlęca
+684;137;Spodnie dziecięce;Odzież dziecięca i niemowlęca
+685;137;Czapeczka niemowlęca;Odzież dziecięca i niemowlęca
+686;138;Kurtka skórzana damska;Odzież damska i męska
+687;138;Marynarka męska tekstylna;Odzież damska i męska
+688;138;Torebka skórzana damska;Galanteria skórzana
+689;138;Portfel męski skórzany;Galanteria skórzana
+690;138;Plecak podróżny;Akcesoria podróżne
+691;139;Przeróbka spodni;Usługi krawieckie / przeróbki
+692;139;Szycie zasłon;Pasmanteria
+693;139;Wymiana zamka;Usługi krawieckie / przeróbki
+694;139;Szycie sukienki na miarę;Usługi krawieckie / przeróbki
+695;139;Nici i igły;Pasmanteria
+696;140;Perfum damski;Perfumy
+697;140;Krem do twarzy;Produkty beauty i makijaż
+698;140;Serum do włosów;Kosmetyki do pielęgnacji włosów
+699;140;Makijaż do oczu;Produkty beauty i makijaż
+700;140;Zestaw kosmetyków upominkowy;Produkty beauty i makijaż
+701;141;Okulary korekcyjne w oprawkach metalowych;Okulary korekcyjne
+702;141;Okulary przeciwsłoneczne UV400;Okulary przeciwsłoneczne
+703;141;Badanie wzroku komputerowe;Badanie wzroku
+704;141;Dobór oprawek indywidualny;Usługi optyczne
+705;141;Etui na okulary;Akcesoria optyczne
+706;142;Sneakersy damskie lifestyle;Obuwie damskie
+707;142;Buty sportowe męskie;Obuwie męskie
+708;142;Buty dziecięce na rzepy;Obuwie dziecięce
+709;142;Wkładki do butów;Akcesoria do butów
+710;142;Środki do pielęgnacji obuwia;Akcesoria do butów
+711;143;T-shirt dziecięcy bawełniany;Odzież dziecięca
+712;143;Spodnie dziecięce casual;Odzież dziecięca
+713;143;Bluza dziecięca;Odzież dziecięca
+714;143;Kurtka dziecięca przejściowa;Odzież dziecięca
+715;143;Sukienka dziecięca;Odzież dziecięca
+716;144;Sukienka casual;Odzież damska
+717;144;Komplet dresowy damski;Moda casual / modowa
+718;144;T-shirt oversize;Moda casual / modowa
+719;144;Spodnie materiałowe;Odzież damska
+720;144;Bluza z nadrukiem;Moda casual / modowa
+721;145;Bluza streetwear;Moda codzienna / streetwear
+722;145;T-shirt z nadrukiem;Moda codzienna / streetwear
+723;145;Czapka z daszkiem;Akcesoria
+724;145;Torba materiałowa;Akcesoria
+725;145;Kurtka przejściowa;Moda codzienna / streetwear
+726;146;Sukienka dzianinowa;Odzież damska
+727;146;Bluzka casual;Odzież damska
+728;146;Spodnie materiałowe;Moda casual
+729;146;Sweter damski;Odzież damska
+730;146;Kardigan lekki;Odzież damska
+731;147;Koszula męska slim fit;Odzież męska
+732;147;T-shirt bawełniany;Odzież męska
+733;147;Sweter klasyczny;Odzież męska
+734;147;Spodnie chino;Odzież męska
+735;147;Pasek skórzany;Akcesoria modowe
+736;148;Smartfon 5G;Smartfony
+737;148;Abonament komórkowy;Usługi telekomunikacyjne
+738;148;Etui ochronne do telefonu;Akcesoria GSM
+739;148;Szkło hartowane;Akcesoria GSM
+740;148;Karta SIM;Usługi telekomunikacyjne
+741;149;Okulary korekcyjne;Okulary korekcyjne
+742;149;Okulary przeciwsłoneczne;Okulary przeciwsłoneczne
+743;149;Soczewki kontaktowe;Soczewki kontaktowe
+744;149;Badanie wzroku;Usługi optyczne
+745;149;Płyn do soczewek;Akcesoria optyczne
+746;150;Ekologiczna herbata ziołowa;Zdrowa żywność
+747;150;Bio mąka orkiszowa;Ekologiczne produkty spożywcze
+748;150;Olej kokosowy bio;Ekologiczne produkty spożywcze
+749;150;Krem naturalny do twarzy;Kosmetyki naturalne
+750;150;Płyn do mycia naczyń eco;Środki czystości organiczne
+751;151;Krem nawilżający twarz;Naturalne kosmetyki do pielęgnacji twarzy
+752;151;Żel do mycia ciała;Naturalne kosmetyki do pielęgnacji ciała
+753;151;Szampon naturalny do włosów;Naturalne kosmetyki do pielęgnacji włosów
+754;151;Maska spa do twarzy;Produkty spa i wellness
+755;151;Szczotka do masażu;Akcesoria do pielęgnacji
+756;152;Legginsy sportowe damskie;Odzież damska sportowa
+757;152;Bluza z kapturem sportowa;Odzież damska sportowa
+758;152;Stanik sportowy;Bielizna sportowa
+759;152;Torebka sportowa;Akcesoria sportowe
+760;152;Klapki basenowe;Obuwie
+761;153;Kolczyki złote;Biżuteria
+762;153;Torebka skórzana;Portfele i torebki
+763;153;Szalik wełniany;Akcesoria modowe
+764;153;Pasek skórzany;Akcesoria modowe
+765;153;Bransoletka modowa;Biżuteria
+766;154;Garnitur męski slim fit;Garnitury
+767;154;Koszula męska biała;Koszule
+768;154;Marynarka klasyczna;Marynarki
+769;154;Spodnie materiałowe;Spodnie
+770;154;Pasek skórzany męski;Akcesoria modowe
+771;155;Okulary korekcyjne męskie;Okulary korekcyjne
+772;155;Okulary przeciwsłoneczne damskie;Okulary przeciwsłoneczne
+773;155;Soczewki kontaktowe miesięczne;Soczewki kontaktowe
+774;155;Badanie wzroku optometryczne;Usługi optyczne
+775;155;Dobór oprawek;Usługi optyczne
+776;156;Chleb żytni rzemieślniczy;Chleb i pieczywo rzemieślnicze
+777;156;Bagietka francuska;Wypieki piekarnicze
+778;156;Bułki pszenne;Wypieki piekarnicze
+779;156;Chleb orkiszowy;Chleb i pieczywo rzemieślnicze
+780;156;Pasztet domowy;Wypieki piekarnicze
+781;157;Garnitur męski wizytowy;Garnitury
+782;157;Marynarka damska klasyczna;Marynarki
+783;157;Koszula męska formalna;Koszule
+784;157;Spodnie materiałowe damskie;Spodnie
+785;157;Sweter wełniany unisex;Swetry
+786;158;Kolczyki złote;Biżuteria
+787;158;Torebka skórzana damska;Torebki i portfele
+788;158;Buty na obcasie;Obuwie
+789;158;Sukienka koktajlowa;Odzież damska
+790;158;Pasek skórzany;Akcesoria modowe
+791;159;Okulary korekcyjne damskie;Okulary korekcyjne
+792;159;Okulary przeciwsłoneczne polaryzacyjne;Okulary przeciwsłoneczne
+793;159;Soczewki kontaktowe dzienne;Soczewki kontaktowe
+794;159;Badanie wzroku komputerowe;Badanie wzroku i usługi optyczne
+795;159;Dobór soczewek;Badanie wzroku i usługi optyczne
+796;160;Okulary przeciwsłoneczne sportowe;Okulary przeciwsłoneczne / okulary sportowe
+797;160;Okulary lifestyle;Okulary przeciwsłoneczne / okulary sportowe
+798;160;Czapka sportowa;Akcesoria sportowe
+799;160;Opaska na rękę sportowa;Akcesoria sportowe
+800;160;Torba sportowa;Akcesoria sportowe
+801;161;Abonament komórkowy Play;Usługi telekomunikacyjne
+802;161;Karta SIM prepaid;Telefonia komórkowa
+803;161;Smartfon 5G;Smartfony
+804;161;Etui ochronne;Akcesoria GSM
+805;161;Szkło hartowane;Akcesoria GSM
+806;162;Abonament komórkowy Plus;Usługi telekomunikacyjne
+807;162;Karta SIM prepaid;Abonamenty i karty SIM
+808;162;Smartfon LTE;Smartfony
+809;162;Ładowarka sieciowa;Akcesoria GSM
+810;162;Słuchawki bezprzewodowe;Akcesoria GSM
+811;163;Urządzenie PLOOM;Urządzenia podgrzewania tytoniu
+812;163;Wkłady tytoniowe;Pakiety tytoniowe
+813;163;Etui ochronne do urządzenia;Akcesoria do urządzeń
+814;163;Ładowarka USB;Akcesoria do urządzeń
+815;163;Zestaw startowy;Pakiety startowe
+816;164;Wysyłka listu poleconego;Usługi pocztowe
+817;164;Nadanie paczki krajowej;Usługi kurierskie
+818;164;Odbiór przesyłki;Usługi pocztowe
+819;164;Przesyłka międzynarodowa;Usługi kurierskie
+820;164;Skrzynka pocztowa;Akcesoria pocztowe
+821;165;Bransoletka stalowa;Biżuteria stalowa
+822;165;Naszyjnik stalowy;Biżuteria stalowa
+823;165;Kolczyki modne;Akcesoria biżuteryjne
+824;165;Pierścionek stalowy;Biżuteria stalowa
+825;165;Zestaw biżuterii;Akcesoria biżuteryjne
+826;166;Wymiana EUR na PLN;Wymiana walut
+827;166;Wymiana USD na PLN;Wymiana walut
+828;166;Skup walut obcych;Usługi kantoru
+829;166;Sprzedaż walut obcych;Usługi kantoru
+830;166;Informacja kursowa;Usługi kantoru
+831;167;Pranie koszuli;Usługi pralnicze
+832;167;Pranie garnituru;Usługi pralnicze
+833;167;Czyszczenie chemiczne;Czyszczenie odzieży
+834;167;Pranie pościeli;Usługi pralnicze
+835;167;Prasowanie odzieży;Usługi pralnicze
+836;168;Zestaw prezentowy;Prezenty
+837;168;Kartka okolicznościowa;Karty okolicznościowe
+838;168;Papier ozdobny do pakowania;Papier do pakowania prezentów
+839;168;Torebka prezentowa;Dodatki upominkowe
+840;168;Wstążki dekoracyjne;Dodatki upominkowe
+841;169;T-shirt damski;Odzież damska
+842;169;Spodnie męskie;Odzież męska
+843;169;Bluza dziecięca;Odzież dziecięca
+844;169;Sneakersy casual;Obuwie
+845;169;Torebka modowa;Akcesoria
+846;170;Torebka skórzana;Galanteria skórzana
+847;170;Portfel damski;Portfele
+848;170;Walizka kabinowa;Walizki
+849;170;Torba podróżna;Torby
+850;170;Brelok skórzany;Akcesoria podróżne
+851;171;T-shirt oversize streetwear;Odzież damska
+852;171;Bluza z kapturem unisex;Odzież męska
+853;171;Jeansy casual;Moda casual / streetwear
+854;171;Sukienka damska codzienna;Odzież damska
+855;171;Spodnie jogger męskie;Odzież męska
+856;172;Pakiet startowy dla kierowcy;Usługi kurierskie/obsługa kierowców
+857;172;Książeczka rozliczeń kierowcy;Usługi kurierskie/obsługa kierowców
+858;172;Opaska identyfikacyjna kierowcy;Usługi kurierskie/obsługa kierowców
+859;172;Zestaw map i nawigacji;Usługi kurierskie/obsługa kierowców
+860;172;Powerbank dla kierowcy;Usługi kurierskie/obsługa kierowców
+861;173;Wycieczka do Hiszpanii;Usługi turystyczne / biuro podróży
+862;173;Wycieczka do Grecji;Wycieczki i wczasy zagraniczne
+863;173;Weekend w Paryżu;Wycieczki i wczasy zagraniczne
+864;173;Wycieczka objazdowa po Włoszech;Wycieczki i wczasy zagraniczne
+865;173;Pakiet wakacyjny dla rodziny;Wycieczki i wczasy zagraniczne
+866;174;Buty sportowe Puma męskie;Obuwie sportowe
+867;174;Buty sportowe Puma damskie;Obuwie sportowe
+868;174;Bluza treningowa Puma;Odzież sportowa
+869;174;Spodnie dresowe Puma;Odzież sportowa
+870;174;Czapka z daszkiem Puma;Akcesoria sportowe
+871;175;Garnitur męski slim fit;Garnitury
+872;175;Koszula męska wizytowa;Koszule
+873;175;Spodnie materiałowe męskie;Spodnie
+874;175;Sweter męski klasyczny;Swetry
+875;175;Pasek skórzany męski;Akcesoria modowe
+876;176;T-shirt damski casual;Odzież damska
+877;176;Bluza męska streetwear;Odzież męska
+878;176;Spodnie dziecięce;Odzież dziecięca
+879;176;Sukienka damska;Odzież damska
+880;176;Pasek skórzany;Akcesoria modowe
+881;177;Krem do ciała;Rituals Kosmetyki do ciała
+882;177;Świeca zapachowa;Rituals Świece i zapachy
+883;177;Zestaw wellness spa;Produkty wellness
+884;177;Żel pod prysznic;Rituals Kosmetyki do ciała
+885;177;Oliwka do ciała;Produkty wellness
+886;178;Talerze porcelanowe;Rosenthal Naczynia porcelanowe
+887;178;Kubki dekoracyjne;Rosenthal Dekoracje domowe
+888;178;Waza obiadowa;Rosenthal Naczynia porcelanowe
+889;178;Świecznik dekoracyjny;Rosenthal Dekoracje domowe
+890;178;Misa dekoracyjna;Rosenthal Akcesoria kuchenne i dekoracyjne
+891;179;Krem do twarzy;Rossman Kosmetyki do pielęgnacji
+892;179;Perfum damski;Rossman Perfumy
+893;179;Pomadka do ust;Rossman Makijaż
+894;179;Mydło antybakteryjne;Rossman Artykuły higieniczne i zdrowotne
+895;179;Żel pod prysznic;Rossman Kosmetyki do pielęgnacji
+896;180;Buty damskie skórzane;Obuwie damskie i męskie
+897;180;Buty męskie casual;Obuwie damskie i męskie
+898;180;Torebka skórzana damska;Galanteria skórzana
+899;180;Portfel męski skórzany;Galanteria skórzana
+900;180;Pasek skórzany unisex;Akcesoria obuwnicze
+901;181;Lodówka side-by-side;RTV i AGD
+902;181;"Telewizor 55"" LED";Telewizory
+903;181;Mikser ręczny;Sprzęt kuchenny
+904;181;Laptop gamingowy;Komputery
+905;181;Słuchawki bezprzewodowe;Elektronika użytkowa
+906;182;Walizka kabinowa 55 cm;Walizki
+907;182;Torba podróżna duża;Torby podróżne
+908;182;Plecak trekkingowy;Plecaki
+909;182;Etui podróżne;Akcesoria podróżne
+910;182;Organizer podróżny;Akcesoria podróżne
+911;183;Smartfon Galaxy 5G;Telefony i smartfony
+912;183;Tablet Galaxy Tab;Tablety
+913;183;Smartwatch Galaxy;Smartwatche
+914;183;"Telewizor QLED 65""";Telewizory
+915;183;Ładowarka bezprzewodowa;Akcesoria elektroniczne
+916;184;Pierścionek zaręczynowy złoty;Pierścionki zaręczynowe
+917;184;Obrączki ślubne;Obrączki ślubne
+918;184;Naszyjnik złoty;Naszyjniki
+919;184;Bransoletka diamentowa;Bransoletki
+920;184;Kolczyki luksusowe;Kolczyki
+921;185;Perfumy damskie;Perfumy
+922;185;Podkład do twarzy;Makijaż
+923;185;Krem nawilżający;Pielęgnacja twarzy
+924;185;Żel do kąpieli;Pielęgnacja ciała
+925;185;Szampon regenerujący;Pielęgnacja włosów
+926;186;Lakier hybrydowy czerwony;Lakiery hybrydowe
+927;186;Zestaw do manicure;Produkty do stylizacji paznokci
+928;186;Blok polerski;Akcesoria do manicure
+929;186;Top coat hybrydowy;Produkty do stylizacji paznokci
+930;186;Pędzel do zdobień;Akcesoria do manicure
+931;187;Odżywka białkowa;Odżywki sportowe
+932;187;Whey protein;Odżywki sportowe
+933;187;Witaminy i minerały;Suplementy diety
+934;187;Baton proteinowy;Żywność dietetyczna
+935;187;Izotonik;Produkty prozdrowotne
+936;188;Lakier hybrydowy Silcare;Lakiery hybrydowe
+937;188;Żel UV do paznokci;Produkty do pielęgnacji ciała
+938;188;Krem do rąk;Produkty do pielęgnacji ciała
+939;188;Depilator elektryczny;Produkty do depilacji
+940;188;Piłeczki do manicure;Akcesoria kosmetyczne
+941;189;Fajka wodna szklana;Fajki wodne
+942;189;Yerba mate argentyńska;Yerba mate
+943;189;Tytoń do fajki;Artykuły tytoniowe
+944;189;Akcesoria do palenia;Akcesoria dla palaczy
+945;189;Filtry i ustniki;Akcesoria dla palaczy
+946;190;T-shirt damski oversize;Odzież damska
+947;190;Jeansy męskie slim;Odzież męska
+948;190;Bluza dziecięca;Odzież dziecięca
+949;190;Czapka bejsbolówka;Akcesoria modowe
+950;190;Sneakersy casual;Obuwie
+951;221;Bluzka plus size damska;Odzież damska plus size
+952;221;Spódnica midi plus size;Odzież damska plus size
+953;221;Sukienka codzienna plus size;Odzież codzienna i elegancka
+954;221;Żakiet klasyczny plus size;Odzież codzienna i elegancka
+955;221;Spodnie casual plus size;Odzież codzienna i elegancka
+956;222;T-shirt kolorowy damski;Moda damska
+957;222;Sweter męski kolorowy;Moda męska
+958;222;Spodnie dziecięce kolorowe;Moda dziecięca
+959;222;Kurtka casual damska;Moda damska
+960;222;Bluza unisex;Moda męska
+961;223;Sneakersy Vans męskie;Obuwie
+962;223;Sneakersy Vans damskie;Obuwie
+963;223;T-shirt streetwear;Odzież streetwear
+964;223;Bluza z kapturem;Odzież streetwear
+965;223;Czapka z daszkiem;Akcesoria
+966;224;Marynarka premium damska;Moda premium
+967;224;Garnitur męski luksusowy;Moda premium
+968;224;Spodnie wizytowe premium;Moda premium
+969;224;Żakiet damski designerski;Moda premium
+970;224;Sukienka wieczorowa;Moda premium
+971;225;Buty skórzane damskie;Obuwie
+972;225;Buty skórzane męskie;Obuwie
+973;225;Torebka skórzana damska;Galanteria skórzana
+974;225;Pasek skórzany;Obuwie i galanteria skórzana
+975;225;Portfel męski skórzany;Galanteria skórzana
+976;226;Naszyjnik srebrny;Biżuteria
+977;226;Bransoletka złota;Biżuteria
+978;226;Kolczyki wiszące;Biżuteria
+979;226;Pierścionek z kamieniem;Biżuteria
+980;226;Charms do bransoletki;Biżuteria
+981;227;Karta SIM prepaid;Virgin Mobile
+982;227;Abonament miesięczny;Virgin Mobile
+983;227;Pakiet internetowy;Virgin Mobile
+984;227;Telefon w ofercie;Virgin Mobile
+985;227;Roaming zagraniczny;Virgin Mobile
+986;228;Okulary korekcyjne damskie;Okulary korekcyjne
+987;228;Okulary przeciwsłoneczne UV;Okulary przeciwsłoneczne
+988;228;Badanie wzroku optometryczne;Badanie wzroku
+989;228;Soczewki kontaktowe miesięczne;Okulary korekcyjne
+990;228;Dobór oprawek;Badanie wzroku
+991;229;Biustonosz koronkowy;Bielizna
+992;229;Majtki damskie klasyczne;Bielizna
+993;229;Piżama damska nocna;Odzież nocna
+994;229;Perfum damski klasyczny;Perfumy
+995;229;Zestaw kosmetyków upominkowy;Kosmetyki
+996;230;Zegarek męski luksusowy;Luksusowe zegarki
+997;230;Zegarek damski klasyczny;Luksusowe zegarki
+998;230;Bransoletka złota;Biżuteria premium
+999;230;Pierścionek z diamentem;Biżuteria premium
+1000;230;Spinki do mankietów;Biżuteria premium
+1001;201;Sorvella Rose Velvet;Perfumy damskie
+1002;201;Sorvella Black Oud;Perfumy unisex
+1003;201;Dyfuzor zapachowy Vanilla;Zapachy domowe
+1004;201;Mgiełka do ciała Jasmine;Mgiełki do ciała
+1005;201;Zestaw prezentowy Amber;Zestawy zapachowe
+1006;202;Garnitur slim fit granatowy;Garnitury
+1007;202;Marynarka wełniana szara;Marynarki
+1008;202;Koszula formalna biała;Odzież formalna
+1009;202;Spodnie garniturowe czarne;Odzież formalna
+1010;202;Garnitur szyty na miarę;Garnitury na miarę
+1011;203;Etui silikonowe iPhone 14;Etui do telefonów
+1012;203;Ładowarka USB-C 25W;Ładowarki
+1013;203;Słuchawki bezprzewodowe TWS;Słuchawki
+1014;203;Szkło hartowane 9H;Akcesoria GSM
+1015;203;Powerbank 10000 mAh;Elektronika mobilna
+1016;204;Serum do twarzy z witaminą C;Kosmetyki
+1017;204;Krem przeciwzmarszczkowy;Kosmetyki
+1018;204;Płatki pod oczy kolagenowe;Produkty beauty
+1019;204;Olejek do rzęs;Produkty beauty
+1020;204;Zestaw pielęgnacyjny;Zestawy kosmetyczne
+1021;205;Naszyjnik z kryształem;Biżuteria
+1022;205;Kolczyki Crystal Stud;Biżuteria
+1023;205;Bransoletka tennis;Biżuteria
+1024;205;Zegarek damski stalowy;Zegarki
+1025;205;Figurka kryształowa łabędź;Dodatki prezentowe
+1026;206;Pierogi ruskie;Pierogi
+1027;206;Pierogi z mięsem;Pierogi
+1028;206;Pierogi z kapustą i grzybami;Pierogi
+1029;206;Barszcz czerwony;Dania tradycyjne
+1030;206;Kompot domowy;Napoje
+1031;207;Zegarek szwajcarski automatyczny;Zegarki
+1032;207;Zegarek męski chronograf;Zegarki
+1033;207;Pierścionek złoty;Biżuteria
+1034;207;Wymiana baterii w zegarku;Usługi jubilerskie
+1035;207;Regulacja bransolety;Usługi jubilerskie
+1036;208;Sukienka bawełniana;Odzież damska
+1037;208;Bluza oversize;Odzież damska
+1038;208;T-shirt basic;Odzież damska
+1039;208;Spodnie chinos;Odzież męska
+1040;208;Kurtka przejściowa;Odzież męska
+1041;209;Marynarka casual;Odzież damska
+1042;209;Sukienka midi;Odzież damska
+1043;209;Koszula biznesowa;Odzież męska
+1044;209;Spodnie materiałowe;Odzież męska
+1045;209;Sweter dzianinowy;Odzież męska
+1046;210;Abonament 5G;Usługi telekomunikacyjne
+1047;210;Smartfon Samsung Galaxy;Smartfony
+1048;210;Karta SIM;Usługi telekomunikacyjne
+1049;210;Router mobilny LTE;Urządzenia sieciowe
+1050;210;Słuchawki przewodowe;Akcesoria
+1051;211;Zegarek męski klasyczny;Zegarki i biżuteria
+1052;211;Zegarek damski elegancki;Zegarki i biżuteria
+1053;211;Bransoletka srebrna;Biżuteria
+1054;211;Pierścionek złoty;Biżuteria
+1055;211;Pasek skórzany;Akcesoria modowe
+1056;212;Biustonosz koronkowy;Bielizna
+1057;212;Majtki damskie;Bielizna
+1058;212;Piżama damska;Piżamy
+1059;212;Szlafrok domowy;Odzież domowa
+1060;212;Czapka zimowa;Akcesoria dla kobiet i mężczyzn
+1061;213;T-shirt damski casual;Ubrania i dodatki
+1062;213;Jeansy męskie;Ubrania i dodatki
+1063;213;Spodnie dziecięce;Ubrania i dodatki
+1064;213;Koc dekoracyjny;Dom i lifestyle
+1065;213;Zestaw kubków premium;Marki premium
+1066;214;Kurtka outdoor męska;Odzież outdoorowa
+1067;214;Kurtka outdoor damska;Odzież outdoorowa
+1068;214;Buty trekkingowe;Obuwie i sprzęt turystyczny
+1069;214;Plecak turystyczny;Odzież outdoorowa
+1070;214;Czapka trekkingowa;Akcesoria outdoorowe
+1071;215;Amplituner AV premium;Sprzęt audio-video premium
+1072;215;Kolumny głośnikowe;Sprzęt audio-video premium
+1073;215;Projektor domowy;Systemy kina domowego
+1074;215;Subwoofer;Sprzęt audio-video premium
+1075;215;Stojak na sprzęt AV;Systemy kina domowego
+1076;216;Wycieczka do Grecji;Biuro podróży
+1077;216;Wycieczka objazdowa po Włoszech;Pakiety turystyczne
+1078;216;Weekend w Paryżu;Wycieczki
+1079;216;Bilety lotnicze Europa;Bilety lotnicze
+1080;216;Pakiet wakacyjny rodzina;Pakiety turystyczne
+1081;217;Biustonosz sportowy;Bielizna damska
+1082;217;Body damskie;Body i piżamy
+1083;217;Piżama damska klasyczna;Piżamy
+1084;217;Komplet bielizny;Bielizna damska
+1085;217;Figi koronkowe;Bielizna damska
+1086;218;Naszyjnik złoty;Biżuteria
+1087;218;Zegarek damski;Biżuteria
+1088;218;Bransoletka srebrna;Biżuteria
+1089;218;Torebka skórzana;Akcesoria
+1090;218;Perfum damski;Perfumy
+1091;219;Świeca sojowa zapachowa;Świece sojowe
+1092;219;Zestaw świec dekoracyjnych;Świece sojowe
+1093;219;Świeca sojowa mini;Świece sojowe
+1094;219;Pojemnik na świecę;Świece sojowe
+1095;219;Świeca sojowa relaksacyjna;Świece sojowe
+1096;220;T-shirt sportowy;Odzież sportowa
+1097;220;Bluza treningowa;Odzież sportowa
+1098;220;Buty do biegania;Obuwie
+1099;220;Czapka sportowa;Akcesoria fitness
+1100;220;Torba sportowa;Akcesoria fitness
+1101;191;Używany iPhone 12 128GB;Używane smartfony
+1102;191;Etui ochronne do smartfona;Akcesoria do telefonów i tabletów
+1103;191;Szkło hartowane premium;Akcesoria do telefonów i tabletów
+1104;191;Usługa zabezpieczenia ekranu;Usługi zabezpieczenia urządzeń
+1105;191;Diagnostyka telefonu;Usługi zabezpieczenia urządzeń
+1106;192;Sneakersy Street Flex;Obuwie sportowe i sneakersy
+1107;192;Bluza streetwear Oversize;Odzież streetwear / casual
+1108;192;T-shirt logo Casual;Odzież streetwear / casual
+1109;192;Czapka z daszkiem Urban;Akcesoria modowe
+1110;192;Plecak miejski Classic;Akcesoria modowe
+1111;193;Kiełbasa swojska tradycyjna;Wędliny i mięso
+1112;193;Pierogi mięsne domowe;Garmażerka i produkty mięsne
+1113;193;Pasztet wiejski;Garmażerka i produkty mięsne
+1114;193;Boczek wędzony;Wędliny i mięso
+1115;193;Smalec domowy;Artykuły spożywcze lokalne
+1116;194;Buty sportowe Go Run;Obuwie sportowe i lifestyle
+1117;194;Sneakersy miejskie Comfort;Obuwie damskie
+1118;194;Półbuty męskie Slip-On;Obuwie męskie
+1119;194;Buty dziecięce LightStep;Obuwie dziecięce
+1120;194;Wkładki komfortowe Memory;Akcesoria obuwnicze
+1121;195;Bluza dziecięca Cotton;Odzież dziecięca
+1122;195;Buty niemowlęce Soft Walk;Obuwie dziecięce
+1123;195;Zabawka edukacyjna Sorter;Zabawki
+1124;195;Plecak szkolny Junior;Artykuły szkolne
+1125;195;Wózek spacerowy Compact;Wyposażenie dla niemowląt
+1126;196;Sneakersy lifestyle Icon;Obuwie sportowe i lifestyle
+1127;196;Bluza hoodie Street;Odzież uliczna / streetwear
+1128;196;Koszulka oversize Graphic;Odzież uliczna / streetwear
+1129;196;Czapka zimowa Logo;Akcesoria
+1130;196;Plecak miejski Sport;Akcesoria
+1131;197;E-papieros Starter Kit;E-papierosy i akcesoria
+1132;197;Liquid owocowy 10 ml;Liquidy
+1133;197;Grzałka do e-papierosa;Akcesoria do palenia
+1134;197;Bateria do e-papierosa;E-papierosy i akcesoria
+1135;197;Ustnik wymienny;Akcesoria do palenia
+1136;198;Koszulka meczowa Lech;Odzież kibicowska
+1137;198;Szalik klubowy Lech Poznań;Szaliki kibica
+1138;198;Czapka zimowa kibica;Czapki kibica
+1139;198;Kubek klubowy Lech;Gadżety klubowe
+1140;198;Brelok herb Lecha;Pamiątki klubowe
+1141;199;Sukienka wizytowa Elegant;Sukienki damskie
+1142;199;Garnitur damski Classic;Garnitury damskie
+1143;199;Bluzka casual Soft;Moda damska
+1144;199;Spódnica ołówkowa;Moda damska
+1145;199;Pasek damski skórzany;Akcesoria i dodatki
+1146;200;Sukienka trendowa Mini;Moda damska
+1147;200;Bluzka satynowa Trend;Moda damska
+1148;200;Spodnie palazzo;Moda damska
+1149;200;Torebka mini Crossbody;Dodatki
+1150;200;Kolczyki fashion;Akcesoria
+1151;231;Garnitur męski klasyczny;Garnitury
+1152;231;Koszula wizytowa męska;Koszule
+1153;231;Sukienka elegancka damska;Moda damska
+1154;231;Krawat jedwabny;Dodatki
+1155;231;Pasek skórzany;Dodatki
+1156;232;Pierścionek złoty;Pierścionki
+1157;232;Łańcuszek srebrny;Łańcuszki
+1158;232;Zegarek męski klasyczny;Zegarki
+1159;232;Bransoletka damska;Bransoletki
+1160;232;Ekskluzywne etui na biżuterię;Akcesoria
+1161;233;Torebka skórzana damska;Torebki
+1162;233;Portfel męski skórzany;Portfele
+1163;233;Pasek skórzany męski;Paski
+1164;233;Walizka kabinowa skórzana;Walizki
+1165;233;Etui na dokumenty;Akcesoria skórzane
+1166;234;Buty damskie skórzane;Obuwie damskie
+1167;234;Buty męskie skórzane;Obuwie męskie
+1168;234;Torba skórzana;Torby / galanteria
+1169;234;Pasek skórzany;Akcesoria
+1170;234;Portfel skórzany;Akcesoria
+1171;235;Zestaw prezentowy;Prezenty
+1172;235;Kartka okolicznościowa;Karty okolicznościowe
+1173;235;Świeczka dekoracyjna;Prezenty / dodatki
+1174;235;Pióro wieczne;Prezenty / gadżety
+1175;235;Torebka prezentowa;Dodatki upominkowe
+1176;236;Miód regionalny;Produkty spożywcze
+1177;236;Przyprawy ekologiczne;Produkty spożywcze
+1178;236;Sos włoski;Produkty spożywcze
+1179;236;Zestaw degustacyjny;Regionalne smaki
+1180;236;Lunch box restauracyjny;Food spot / restauracja
+1181;237;Koszula klasyczna męska;Koszule
+1182;237;Spodnie materiałowe męskie;Odzież męska
+1183;237;Sweter wełniany męski;Odzież męska
+1184;237;Blazer męski;Garnitury
+1185;237;Pasek skórzany męski;Akcesoria
+1186;238;Świeca zapachowa waniliowa;Świeczki zapachowe
+1187;238;Aromat do domu Lawenda;Aromaty do domu
+1188;238;Zapalniczka dekoracyjna;Akcesoria zapachowe
+1189;238;Zestaw świec sojowych;Świeczki zapachowe
+1190;238;Świeca zapachowa jabłko-cynamon;Świeczki zapachowe
+1191;239;Pierścionek złoty;Pierścionki
+1192;239;Bransoletka srebrna;Bransoletki
+1193;239;Naszyjnik z diamentem;Naszyjniki
+1194;239;Kolczyki złote;Kolczyki
+1195;239;Zawieszka charms;Akcesoria
+1196;240;T-shirt damski;Odzież damska
+1197;240;Spodnie męskie;Odzież męska
+1198;240;Kurtka dziecięca;Odzież dziecięca
+1199;240;Torebka modowa;Akcesoria
+1200;240;Czapka z daszkiem;Akcesoria
+1201;241;Smartfon Xiaomi Mi 13;Smartfony
+1202;241;Smartwatch Xiaomi Mi Band;Smartwatche
+1203;241;Głośnik Bluetooth;Elektronika konsumencka
+1204;241;Słuchawki bezprzewodowe;Akcesoria elektroniczne
+1205;241;Ładowarka indukcyjna;Akcesoria elektroniczne
+1206;242;Krem nawilżający Yves Rocher;Pielęgnacja skóry
+1207;242;Perfumy damskie Yves Rocher;Perfumy
+1208;242;Podkład do twarzy;Makijaż
+1209;242;Żel pod prysznic;Pielęgnacja ciała
+1210;242;Szampon do włosów;Pielęgnacja włosów
+1211;243;Sukienka damska;Zara moda damska
+1212;243;Spodnie męskie;Zara moda męska
+1213;243;Bluza dziecięca;Zara moda dziecięca
+1214;243;Torebka trendowa;Akcesoria trendowe
+1215;243;Sneakersy sportowe;Obuwie
+1216;244;Chipsy solone;Produkty codzienne
+1217;244;Butelka wody mineralnej;Napoje
+1218;244;Baton czekoladowy;Przekąski
+1219;244;Płatki śniadaniowe;Produkty codzienne
+1220;244;Kawa rozpuszczalna;Produkty codzienne
+1221;245;Krem do twarzy Ziaja;Pielęgnacja skóry
+1222;245;Żel pod prysznic;Pielęgnacja ciała
+1223;245;Krem pod oczy;Dermokosmetyki
+1224;245;Mleczko do ciała naturalne;Produkty naturalne
+1225;245;Peeling do twarzy;Pielęgnacja skóry
+1226;246;Zegarek klasyczny męski;Zegarki
+1227;246;Zegarek damski sportowy;Zegarki
+1228;246;Bransoletka do zegarka;Akcesoria do zegarków
+1229;246;Etapers do zegarków;Akcesoria do zegarków
+1230;246;Pasek skórzany do zegarka;Akcesoria do zegarków
